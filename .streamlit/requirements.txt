@@ -1,0 +1,4 @@
+pandas as pd
+numpy 
+plotly
+streamlit
